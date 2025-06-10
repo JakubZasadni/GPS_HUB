@@ -1,4 +1,6 @@
 # GPS HUB 20x OBD Ports
+<p align="center"> <a href="(https://github.com/JakubZasadni/GPS_HUB/blob/main/images/44c2a70c-c5c8-47a8-b6d3-35ec8c6d8205.jpg)" target="_blank" rel="noreferrer"> <img src="https://github.com/JakubZasadni/GPS_HUB/blob/main/images/44c2a70c-c5c8-47a8-b6d3-35ec8c6d8205.jpg" alt="c" /> </a>
+  
 Powered by Laboratory Power Supply | Core Logic © | Teltonika
 
 # Project Description
